@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 6
+    Nature Char (10) ;
+    Num Integer ;
+    indice Char (15) ;
+    complement Char (20) ;
+    Surf_Adop Float ;
+    Name Char (50) ;
